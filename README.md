@@ -135,7 +135,11 @@ Use the dual 18v adapter in place of a Ryobi 40v battery such as those with P/N.
    - OP40125 = 12Ah
    - OP4012A1 = 12Ah
 
-More information on 40v batteries is available from toolboy's excellent site: [https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm](https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm)
+More information on Ryobi batteries available at...
+
+ - [https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm](toolboyworld.com/eBay/Ryobi_40v...)
+
+ - [https://docs.google.com/spreadsheets/d/e/2PACX-1vRghl-44o7Nw_GGOGKN8PdnxJtbzF7UR7nYDt3zEPrRL_azznKE1w4QvBJRLxdQnecwIgQ6tuuzQ4bT/pub](docs.google.com/spreadsheets...)
 
 <br>
 <br>
